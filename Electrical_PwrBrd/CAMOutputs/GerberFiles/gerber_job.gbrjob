@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-11-20T06:13:44Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PwrBrd"
+        },
+        "Owner": "Terrence Thurk <Terrence.thurk@gmail.com>",
+        "Size": {
+            "X": 58.28,
+            "Y": 19.2
+        }
+    }
+}
